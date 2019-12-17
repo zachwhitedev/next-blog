@@ -1,0 +1,15 @@
+.post-preview {
+    display: block;
+    margin: 0 auto 10px auto;
+    padding: 2px 5px;
+    border: 1px solid black;
+    width: 600px;
+}
+
+.post-preview > p {
+    font-size: 16pt;
+}
+
+.post-preview:hover{
+    background: rgb(240, 240, 240);
+}
