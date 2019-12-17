@@ -1,15 +1,25 @@
 {
-  "name": "next-blog2",
-  "version": "0.1.0",
-  "private": true,
+  "name": "next-thruhike",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "dev": "next dev",
+    "dev": "next",
     "build": "next build",
     "start": "next start"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "next": "9.1.5",
-    "react": "16.12.0",
-    "react-dom": "16.12.0"
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-sass": "^1.0.1",
+    "bootstrap": "^4.4.1",
+    "next": "^9.1.5",
+    "node-sass": "^4.13.0",
+    "react": "^16.12.0",
+    "react-bootstrap": "^1.0.0-beta.16",
+    "react-dom": "^16.12.0",
+    "reactstrap": "^8.2.0"
   }
 }
